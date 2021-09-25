@@ -134,4 +134,7 @@ input{
     body{
         font-size:smaller;
     }
+    h3{
+        font-size: small;
+    }
 }
