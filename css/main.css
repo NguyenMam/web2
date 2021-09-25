@@ -138,3 +138,12 @@ input{
         font-size: small;
     }
 }
+
+@media only screen and (max-width:500px) {
+    .font-text{
+    position:absolute;
+    bottom: 5%;
+    left: 30%;
+    }
+}
+
